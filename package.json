@@ -1,5 +1,5 @@
 { "name" : "protobuf_ex",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "description" : "Protocol Buffers for NodeJS with the right case",
   "author": {
     "happyjake": "happyjake@google.com"
