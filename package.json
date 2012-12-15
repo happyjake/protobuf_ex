@@ -1,0 +1,15 @@
+{ "name" : "protobuf_ex",
+  "version" : "0.0.1",
+  "description" : "Protocol Buffers for NodeJS with the right case",
+  "author": {
+    "happyjake": "happyjake@google.com"
+  },
+  "main": "./build/Release/protobuf_for_node",
+  "engines": { "node": ">= 0.8.0 < 0.9.0" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/happyjake/protobuf_ex.git"
+  },
+  "scripts": { 
+  }
+}
